@@ -1,6 +1,6 @@
 ### YamlMime:Sample
 sample:
-- name: Sample2 bla string
+- name: Sample2 bla string2
   path: /samples/api/azure
   description: A sample that shows how to use Azure APIs.
   
