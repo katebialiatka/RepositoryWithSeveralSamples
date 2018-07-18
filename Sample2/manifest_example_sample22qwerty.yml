@@ -6,7 +6,7 @@ sample:
   generateZip: false
   extendedZipContent:
   - path: /FolderOne
-    target: /
+    target: /FolderOne
   azureDeploy: /path/to/template.json
   author: dend
   languages:
