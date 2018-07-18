@@ -1,20 +1,19 @@
 ### YamlMime:Sample
 sample:
-- name: Sample2 bla string2987654321
-  path: /samples/api/azure
+- name: Using Azure APIs - manifest_example_sample22.yml
   description: A sample that shows how to use Azure APIs.
-  
+  image: /repo/root/rel/path/image.jpg
   generateZip: true
+  extendedZipContent:
+  - path: /FolderOne
+    target: /
   azureDeploy: /path/to/template.json
-  author: dend3434
+  author: dend
   languages:
   - csharp
-  - vbnet
-  - fsharp
   technologies:
-  - office
-  - windows
-  - xbox
+  - advanced-threat-analytics
+  vssolution: /repo/test/solution.sln
   extensions:
   - someExtensionEntry:
     - altEntry
