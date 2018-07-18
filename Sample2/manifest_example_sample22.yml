@@ -3,7 +3,7 @@ sample:
 - name: Using Azure APIs - manifest_example_sample22.yml
   description: A sample that shows how to use Azure APIs.
   image: /repo/root/rel/path/image.jpg
-  generateZip: true
+  generateZip: false
   extendedZipContent:
   - path: /FolderOne
     target: /
