@@ -1,6 +1,6 @@
 ### YamlMime:Sample
 sample:
-- name: Using Azure APIs - manifest_example_sample22.yml update for 3355 update
+- name: Using Azure APIs - manifest_example_sample22.yml update for 3355 update2
   description: A sample that shows how to use Azure APIs.
   image: /Sample2_Folder2/161418367-700ae567-93a2-4a22-bd26-c65d9e9ef1b4.jpg
   generateZip: true
