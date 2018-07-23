@@ -2,11 +2,11 @@
 sample:
 - name: Using Azure APIs - manifest_example_sample22.yml update for 3355
   description: A sample that shows how to use Azure APIs.
-  image: /repo/root/rel/path/image.jpg
-  generateZip: false
+  image: /Sample2_Folder2/161418367-700ae567-93a2-4a22-bd26-c65d9e9ef1b4.jpg
+  generateZip: true
   extendedZipContent:
-  - path: /FolderOne
-    target: /FolderOne
+  - path: /Sample2_Folder2
+    target: /Sample2_Folder2
   azureDeploy: /path/to/template.json
   author: dend
   languages:
