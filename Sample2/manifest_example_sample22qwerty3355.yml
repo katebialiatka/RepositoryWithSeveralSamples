@@ -2,7 +2,7 @@
 sample:
 - name: Using Azure APIs - manifest_example_sample22.yml update for 3355 update2987 qqq1q 55 for powershell 23 last99qq
   description: A sample that shows how to use Azure APIs.
-  image: /Sample2_Folder2/161418367-700ae567-93a2-4a22-bd26-c65d9e9ef1b4.jpg
+  image: Sample2_Folder2/161418367-700ae567-93a2-4a22-bd26-c65d9e9ef1b4.jpg
   generateZip: true
   extendedZipContent:
   - path: /Sample2/Sample2_Folder2
